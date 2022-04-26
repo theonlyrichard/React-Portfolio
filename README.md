@@ -34,5 +34,6 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
-```![React App](https://user-images.githubusercontent.com/93751925/165214081-4d72e845-5618-4c2a-978b-cd2a95ad5efd.gif)
-![React App](https://user-images.githubusercontent.com/93751925/165214440-88be2878-30a5-4b49-b528-0ba8db1c27fe.gif)
+```
+
+![React App](https://user-images.githubusercontent.com/93751925/165214580-9a84c7b9-ec0e-4fe1-99e9-7a9432d77ef7.gif)
